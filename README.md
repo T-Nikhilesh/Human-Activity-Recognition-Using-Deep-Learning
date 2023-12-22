@@ -6,4 +6,5 @@ UCF50 Dataset: https://www.crcv.ucf.edu/data/UCF50.rar
 
 Shorten Dataset (10 Action Categories): https://drive.google.com/file/d/1llnTHkY92mS53Tqc_-kODA8NYWrKvDSw/view?usp=sharing
 
-image image image image
+![image](https://github.com/T-Nikhilesh/Human-Activity-Recognition-Using-Deep-Learning/assets/101461539/df28d72a-b7b7-43b0-8bbf-ca1d8d1d4494)
+
